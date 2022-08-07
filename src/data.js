@@ -2,7 +2,7 @@ const menu = [
     {
       id: 1,
       title: 'KLUB SENDVIČ',
-      category: 'dorucak',
+      category: 'doručak',
       price: 649,
       img: './images/item-1.jpg',
       desc: `piletina, jaje, pržena slanina, paradajz, pomfrit `,
@@ -10,7 +10,7 @@ const menu = [
     {
       id: 2,
       title: 'NJOKE SA ČETIRI VRSTE SIRA POSUTE HRSKAVIM PARMEZANOM',
-      category: 'rucak',
+      category: 'ručak',
       price: 899,
       img: './images/item-2.jpg',
       desc: `gorgonzola, ementaler, gauda, parmezan `,
@@ -26,7 +26,7 @@ const menu = [
     {
       id: 4,
       title: 'ENGLESKI DORUČAK',
-      category: 'dorucak',
+      category: 'doručak',
       price: 495,
       img: './images/item-4.jpg',
       desc: `jaja po želji, kobasice, slanina, paradajz, pečurke, pasulj `,
@@ -34,7 +34,7 @@ const menu = [
     {
       id: 5,
       title: 'LJUTKASTE PENE SA BIFTEKOM I MOCARELOM',
-      category: 'rucak',
+      category: 'ručak',
       price: 1130,
       img: './images/item-5.jpg',
       desc: 'paradajz sos, čili pasta, rukola, masline',
@@ -50,7 +50,7 @@ const menu = [
     {
       id: 7,
       title: 'CHORIZO & EGGS',
-      category: 'dorucak',
+      category: 'doručak',
       price: 495,
       img: './images/item-7.jpg',
       desc: `jaja na oko, mladi krompir, sitno seckana kobasica, sušeni paradajz, spanać, feta sir `,
@@ -58,15 +58,15 @@ const menu = [
     {
       id: 8,
       title: 'VELTOLINA',
-      category: 'rucak',
+      category: 'ručak',
       price: 1140,
       img: './images/item-8.jpg',
       desc: 'goveđa pršuta, pelat, pizza sir, rukola, čeri paradajz, parmezan',
     },
     {
       id: 9,
-      title: 'TRADICIONALNI BEOGRADSKI DORUCAK',
-      category: 'dorucak',
+      title: 'TRADICIONALNI BEOGRADSKI doručak',
+      category: 'doručak',
       price: 249,
       img: './images/item-9.jpg',
       desc: 'kafa sikteruša, dve Lucky Strike cigarete',
