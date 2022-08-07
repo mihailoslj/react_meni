@@ -65,7 +65,7 @@ const menu = [
     },
     {
       id: 9,
-      title: 'TRADICIONALNI BEOGRADSKI doručak',
+      title: 'TRADICIONALNI BEOGRADSKI DORUČAK',
       category: 'doručak',
       price: 249,
       img: './images/item-9.jpg',

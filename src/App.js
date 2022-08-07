@@ -1,4 +1,3 @@
-import './App.css';
 import { useState } from 'react';
 import Menu from './Menu';
 import items from './data';
