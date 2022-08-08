@@ -103,7 +103,7 @@ p {
     font-size: 4rem;
   }
   h2 {
-    font-size: 2.5rem;
+    font-size: 4rem;
   }
   h3 {
     font-size: 1.75rem;
@@ -150,13 +150,13 @@ Menu
   margin-bottom: 2rem;
 }
 .underline {
-  width: 5rem;
+  width: 10rem;
   height: 0.25rem;
   background: var(--clr-gold);
   margin-left: auto;
   margin-right: auto;
 }
-.btn-container {
+.btn-container { 
   margin-bottom: 4rem;
   display: flex;
   justify-content: center;
@@ -164,7 +164,7 @@ Menu
 .filter-btn {
   background: transparent;
   border-color: transparent;
-  font-size: 1rem;
+  font-size: 1.5rem;
   text-transform: capitalize;
   margin: 0 0.5rem;
   letter-spacing: 1px;
@@ -179,6 +179,7 @@ Menu
   color: var(--clr-white);
 }
 .section-center {
+  padding-bottom: 50px;
   width: 90vw;
   margin: 0 auto;
   max-width: 1170px;
@@ -233,4 +234,36 @@ Menu
   .photo {
     height: 150px;
   }
+}
+
+.navBar {
+  background-color: #ce963fe6;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 2rem;
+  padding: 0 1rem;
+  letter-spacing: 0.1rem;
+  min-height: 80px;
+}
+
+.site-title {
+  font-size: 2rem;
+  color:#102A42;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+
+.contact-page-link {
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  color:#652a2a72;
+  font-weight: bold;
+}
+
+.contact-page-link:hover {
+  background-color: rgba(186, 186, 186, 0.331);
 }
