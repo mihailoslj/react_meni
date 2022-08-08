@@ -5,6 +5,7 @@ import Categories from './Categories';
 import Navbar from './NavBar';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Contact from './Contact';
+import Footer from './Footer';
 
 //na neku foru ne postoji neka unique metoda, pa moram ovako 
 //ovo sa nizom je tu jer mi treba i 'Sve' kategorija
